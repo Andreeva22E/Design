@@ -2,3 +2,4 @@
 Техники тест-дизайна  
 Тестирование формы регистрации на примере интернет магазина. https://docs.google.com/spreadsheets/d/1QdPSafW8J8eqsUFRcnnhy60gAVE4EhyzFsQv8O0ZHrk/edit?usp=sharing  
 Тестирование Фильтрации и Сортировки товаров в интернет магазине методом попарного тестирования https://docs.google.com/spreadsheets/d/1tv-tOggPRDm-cm9tio2ugz1dRiU3fzoAJDICFgHKZwc/edit?usp=sharing  
+Создание таблицы принятия решений на основе модуля оплаты с помощью PayPal https://docs.google.com/spreadsheets/d/1Ih2il0kQWGKLkypJPuIOEVEcugL-0ZIXrgIIpbPlqC0/edit?usp=sharing  
